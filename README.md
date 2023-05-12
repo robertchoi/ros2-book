@@ -22,3 +22,10 @@ sudo wget https://raw.githubusercontent.com/seongjunChoi0714/ROS/master/install_
 ~~~
 sudo wget https://raw.githubusercontent.com/seongjunChoi0714/ROS/master/install_ros2_foxy.sh && chmod 755 ./install_ros2_foxy.sh && bash ./install_ros2_foxy.sh
 ~~~
+
+
+- ROS2 Humble 한 줄 설치
+아래와 같이 설치가 가능합니다.
+~~~
+sudo wget https://raw.githubusercontent.com/robertchoi/ros2-book/master/install_ros2_humble.sh && chmod 755 ./install_ros2_humble.sh && bash ./install_ros2_humble.sh
+~~~
